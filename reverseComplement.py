@@ -8,7 +8,7 @@ def reverse_complement(sequence):
 
     return "".join(reverse_comp)
 
-
+#Exemplo de uso:
 
 sequence = "CCAGATC"
 
